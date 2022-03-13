@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatkocabay" alt="firatkocabay" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@firatkocabay](https://medium.com/@firatkocabay)
-
 - 📫 How to reach me **firatkocabay@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firatkocabay/](https://www.linkedin.com/in/firatkocabay/)
