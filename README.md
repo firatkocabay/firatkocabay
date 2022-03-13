@@ -26,7 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/firatkocabay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="firatkocabay" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firatkocabay&show_icons=true&locale=en&layout=compact" alt="firatkocabay" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firatkocabay&show_icons=true&locale=en" alt="firatkocabay" /></p>
 
