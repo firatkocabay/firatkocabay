@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fırat Kocabay</h1>
 <h3 align="center">A passionate software engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firatkocabay" alt="firatkocabay" /></a> </p>
-
 - 📫 How to reach me **firatkocabay@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/firatkocabay/](https://www.linkedin.com/in/firatkocabay/)
